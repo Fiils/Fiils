@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fiils
 - 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning in ReactJS.
+- 🌱 I’m currently learning in ReactJS and NodeJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
